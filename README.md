@@ -8,7 +8,7 @@ You can see your poor choices in full glory for the following:
 2. Text: Font, Color
 3. Background Color
 
-I made this to see what my blog would look like without having to rebuild and deploy it. I am lazy.
+I made this to see what my (Bear) blog would look like without having to rebuild and deploy it. I am lazy.
 
 But most importantly, this app is an excuse for me to see what [Svelte](https://svelte.dev/) is all about.
 So far, I really like it.
