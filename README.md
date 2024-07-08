@@ -1,6 +1,6 @@
 # Plaintext Blog Themer
 
-An opinionated themer for theming and visualizing what your plaintext blog will look like.
+An opinionated themer for configuring and visualizing what your plaintext blog will look like.
 
 You can see your poor choices in full glory for the following:
 
