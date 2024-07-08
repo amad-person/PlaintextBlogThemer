@@ -1,22 +1,23 @@
-# create-svelte
+# Plaintext Blog Themer
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+An opinionated themer for theming and visualizing what your plaintext blog will look like.
 
-## Creating a project
+You can see your poor choices in full glory for the following:
 
-If you're seeing this, you've probably already done this step. Congrats!
+1. Headings: Font, Color
+2. Text: Font, Color
+3. Background Color
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+I made this to see what my blog would look like without having to rebuild and deploy it. I am lazy.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+But most importantly, this app is an excuse for me to see what [Svelte](https://svelte.dev/) is all about.
+So far, I really like it.
 
-## Developing
+## Development
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Clone this repository, `cd` into it, and run `npm install` (or `pnpm install` or `yarn`) to install the dependencies.
+
+Then, you can start a development server:
 
 ```bash
 npm run dev
@@ -25,14 +26,19 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+## Build
 
-To create a production version of your app:
+To create a production version:
 
 ```bash
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+Preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Credits
+
+This project:
+
+1. Will eventually look great because of [Bits UI](https://www.bits-ui.com/docs/introduction), or [Flowbite](https://flowbite-svelte.com/), if I'm feeling lazy.
+2. Was bootstrapped with [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
